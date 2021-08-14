@@ -7,7 +7,7 @@
 		"activityBar.background": "#00000077",
 		"activityBar.border": "#00000060",
 		"activityBar.foreground": "#FF1188",
-		"activityBarBadge.background": "#000000",
+		"activityBarBadge.background": "#000000", 
 		"activityBarBadge.foreground": "#000000",
 		"badge.background": "#00000030",
 		"badge.foreground": "#3BFFBE",
@@ -24,19 +24,19 @@
 		"dropdown.background": "#000000",
 		"dropdown.border": "#3BFFBE10",
 		"editor.background": "#000000",
-		"editor.findMatchBackground": "#000000",
+		"editor.findMatchBackground": "#00ff0d",
 		"editor.findMatchBorder": "#3BFFBE",
 		"editor.findMatchHighlightBackground": "#3BFFBE93",
-		"editor.findMatchHighlightBorder": "#3BFFBE30",
-		"editor.foreground": "#FF1188",
-		"editor.lineHighlightBackground": "#00000050",
-		"editor.selectionBackground": "#FFFF1230",
+		"editor.findMatchHighlightBorder": "#07bd80af",
+		"editor.foreground": "#ffffff",
+		"editor.lineHighlightBackground": "#36363644", //
+		"editor.selectionBackground": "#ff1212c9",
 		"editor.selectionHighlightBackground": "#3BFFBE6b",
-		"editor.selectionHighlightBorder": "#FFFF12f0",
+		"editor.selectionHighlightBorder": "#c2c2ac00",
 		"editorBracketMatch.background": "#000000",
 		"editorBracketMatch.border": "#3BFFBE7f",
 		"editorCursor.foreground": "#3BFFBE",
-		"editorError.foreground": "#00000070",
+		"editorError.foreground": "#dd0a0a70",
 		"editorGroup.border": "#00000030",
 		"editorGroupHeader.tabsBackground": "#000000",
 		"editorGutter.addedBackground": "#4C28FF60",
@@ -257,11 +257,11 @@
 		},
 		{
 			"scope": [
-				"invalid",
+				"invalid", 
 				"invalid.illegal"
 			],
 			"settings": {
-				"foreground": "#000000"
+				"foreground": "#fbfbfb"
 			}
 		},
 		{
@@ -458,7 +458,7 @@
 				"variable.parameter"
 			],
 			"settings": {
-				"foreground": "#000000"
+				"foreground": "#bbb8b8"
 			}
 		},
 		{
@@ -522,7 +522,7 @@
 				"variable.other.class.js"
 			],
 			"settings": {
-				"foreground": "#000000"
+				"foreground": "#d8d3d3"
 			}
 		},
 		{
@@ -583,7 +583,7 @@
 				"markup.deleted"
 			],
 			"settings": {
-				"foreground": "#000000"
+				"foreground": "#fbfbfb"
 			}
 		},
 		{
@@ -599,8 +599,8 @@
 				"string.regexp"
 			],
 			"settings": {
-				"foreground": "#FF1188"
-			}
+				"foreground": "#FF1188" 
+			} 
 		},
 		{
 			"scope": [

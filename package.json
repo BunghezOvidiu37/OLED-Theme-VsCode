@@ -1,15 +1,16 @@
 {
-    "name": "OLED-Theme-VsCode",
+    "name": "OLED-Theme",
     "displayName": "OLED VsCode Theme (Pink)",
     "description": "Full Black with 3 main colors!",
-    "icon": "iconOlED.png",
-    "version": "0.0.1",
+    "icon": "iconOLED.png",
+    "version": "1.1.0",
     "publisher": "BunghezOvidiu",
     "repository": {
         "type": "git",
-        "url" : "https://github.com/BunghezOvidiu37/OLED-Theme-VsCode",
+        "url" : "https://github.com/BunghezOvidiu37/OLED-Theme-VsCode"
     },
     "keywords": [
+        "oled theme",
         "theme",
         "oled",
         "black",
