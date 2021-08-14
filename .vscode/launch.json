@@ -11,7 +11,7 @@
                 "--extensionDevelopmentPath=${workspaceFolder}"
             ],
             "name": "Launch Extension",
-            "outFiles": [
+            "outFiles": [ 
                 "${workspaceFolder}/out/**/*.js"
             ],
             "preLaunchTask": "npm",
